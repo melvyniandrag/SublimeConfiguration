@@ -1,0 +1,14 @@
+[
+    {
+        "keys": ["shift+alt+r"],
+        "command": "increment_maui_row_numbers"
+    },
+    {
+        "keys": ["shift+alt+c"],
+        "command": "increment_maui_column_numbers"
+    },
+    {
+        "keys": ["ctrl+shift+o"],
+        "command": "prompt_open_folder"
+    },
+]
